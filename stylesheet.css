@@ -1,0 +1,32 @@
+/* tr {
+    background-color: rgb(192, 191, 191);
+}
+
+tbody:nth-child(3) > tr:nth-child(2) > th {
+    background-color: red;
+} */
+
+.bloco1 {
+    background-color: red;
+}
+
+.bloco2 {
+    background-color: blue;
+}
+
+.bloco3 {
+    background-color: purple;
+}
+
+.bloco4 {
+    background-color: pink;
+}
+
+.bloco5 {
+    background-color: green;
+}
+
+.bloco6 {
+    background-color: brown;
+}
+
